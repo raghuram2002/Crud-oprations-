@@ -26,17 +26,29 @@ Follow these steps to set up and run the project:
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory for the React app
-  - cd my-vue-app
+  ```shell
+cd my-vue-app
+```
 3. Install the required Node modules for the React app
-  - npm install
+```shell
+npm install
+```
 4. Navigate to the fake_server directory
-  - cd fake_server
+```shell
+cd fake_server
+```
 5. Install the Node modules for the JSON Server
-  - npm install
-6. Start the JSON Server
-  - npm test
+```shell
+npm install
+```
+7. Start the JSON Server
+```shell
+npm test
+```
 7. Return to the main app directory (my-vue-app) and run the React application
-  - cd my-vue-app
-  - npm run dev
+```shell
+cd my-vue-app
+npm run dev
+```
 
 Now you can exploer the app in your local server
